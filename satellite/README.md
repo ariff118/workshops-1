@@ -1,6 +1,6 @@
 # Satellite imagery analysis in R
 
-Authors: [Ewa Grabska](https://denali.geo.uj.edu.pl/project/rs4for/index.php/pl/ewa-grabska-2/)
+Authors: [Ewa Grabska](https://www.researchgate.net/profile/Ewa_Grabska2)
 
 ### Description
 
